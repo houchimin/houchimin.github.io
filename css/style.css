@@ -44,10 +44,13 @@ code {
   font-size: 80%;
 }
 
+ul{
+  padding: 0 20px;
+}
 #mobile-news li{
   list-style:none;
   position:relative;
-  border-bottom:1px solid #CCC;
+  border-bottom:1px solid #EEE;
   padding:18px 20px;
   overflow:hidden;
 }
